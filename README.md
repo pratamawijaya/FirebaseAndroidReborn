@@ -2,6 +2,7 @@
 
 Repo ini berisi implementasi firebase 2.0
 
+DONE
 - Firebase Auth
 
 

@@ -10,3 +10,7 @@ TODO:
 - Firebase Database
 - Firebase Messaging
 - Fireabse Analytics
+
+
+NOTE :
+- Jangan lupa generate google-services.json dan tempatkan kedalam folder app/
